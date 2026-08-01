@@ -1,0 +1,4 @@
+customer_id,name,email,state,is_active
+101,Alice Smith-Johnson,alice.new@email.com,NY,Y
+106,Frank Wright,frank@email.com,WA,Y
+103,Charlie,charlie@email.com,TX,Y
